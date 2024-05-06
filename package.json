@@ -1,0 +1,11 @@
+{
+  "name": "zh-docs-template",
+  "scripts": {
+    "lint": "zhlint '**/*.md'"
+  },
+  "author": "xiaodong2008",
+  "license": "MIT",
+  "devDependencies": {
+    "zhlint": "^0.8.1"
+  }
+}
